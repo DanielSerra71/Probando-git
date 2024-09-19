@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(221, 221, 221);
+    width: auto;
+    height: 200px;
+    padding: 20px;
+}
+div{
+background-color: brown;
+width: 600px;
+height: auto;
+padding: 10px;
+margin: auto;
+
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    background-color: blueviolet;
+    padding: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: uppercase;
+    width: auto;
+}
+h2{
+    text-align: center;
+    color: azure;
+    text-transform: uppercase;
+    font-family: Tahoma;
+    font-style: italic;
+    letter-spacing: 5px;
+    font-weight: 200;
+}
+
+p{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    background-color: rgba(184, 184, 184, 0.342);
+    font-size: 18px;
+}
