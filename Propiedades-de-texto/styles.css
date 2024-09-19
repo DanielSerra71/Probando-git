@@ -1,0 +1,17 @@
+h1{
+    color: blueviolet;
+    font-size: 20 px;
+}
+p{
+    color: gray;
+    font-size: 12px;
+}
+li{
+    color: gray;
+}
+.Faltante{
+    color: red;
+}
+#ingrediente-secreto{
+    color: blue;
+}
